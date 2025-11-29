@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/servlet/DashboardServlet.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/servlet/MaterialServlet.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/servlet/MovimientoServlet.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/servlet/OrdenServlet.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/servlet/ReporteServlet.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/servlet/ExportServlet.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/filter/AuthFilter.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/web/WEB-INF/jsp/login.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/web/WEB-INF/jsp/dashboard.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/web/WEB-INF/jsp/materiales.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/web/WEB-INF/jsp/movimiento_form.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/web/WEB-INF/jsp/ordenes.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/web/WEB-INF/jsp/reporte.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/web/WEB-INF/jsp/bitacora.jsp</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/util/DBUtil.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/model/Usuario.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/model/Movimiento.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/dao/ReporteDAO.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/src/java/com/empresa/dao/MovimientoDAO.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/SistemaInventario/.git/config</file>
+        </group>
+    </open-files>
+</project-private>

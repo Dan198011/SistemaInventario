@@ -1,0 +1,8 @@
+com.empresa.filter.AuthFilter=javax.servlet.annotation.WebFilter
+com.empresa.servlet.DashboardServlet=javax.servlet.annotation.WebServlet
+com.empresa.servlet.ExportServlet=javax.servlet.annotation.WebServlet
+com.empresa.servlet.LoginServlet=javax.servlet.annotation.WebServlet
+com.empresa.servlet.MaterialServlet=javax.servlet.annotation.WebServlet
+com.empresa.servlet.MovimientoServlet=javax.servlet.annotation.WebServlet
+com.empresa.servlet.OrdenServlet=javax.servlet.annotation.WebServlet
+com.empresa.servlet.ReporteServlet=javax.servlet.annotation.WebServlet
